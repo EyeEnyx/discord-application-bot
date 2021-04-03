@@ -1,1 +1,1 @@
-npm start run
+npm install
